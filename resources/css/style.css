@@ -1,10 +1,39 @@
 h1 {
-  color : white;
+  color : yellow;
   font-family: Verdana;
   font-size: 50px;
   text-align: center;
 }
 
+h2{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  font-family: Verdana;
+  font-size: 42px;
+  text-align: center;
+}
+h4{
+  color:gray;
+  font-family: Verdana;
+  font-size:21px;
+  text-align: center;
+}
+
+h5{
+  color:gray;
+  text-align: right;
+  font-size: 30px;
+}
 body {
   background-color: black;
+}
+
+.center {
+  margin: 0 auto;
+  width: 400px;
 }
